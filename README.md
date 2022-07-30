@@ -47,3 +47,11 @@ Quando não estou trabalhando com meu amigo [Marcos](https://github.com/Marcos-P
 [Furnace, tracker e emulador de chiptune](https://github.com/tildearrow/furnace)
 
 [Obsidian, editor e organizador de textos em *MarkDown*](https://github.com/obsidianmd/obsidian-releases)
+
+## Minha arte
+
+![Niko, personagem do jogo OneShot, voando sobre uma cidade corrompida, segurando o sol](./niko.png)
+
+![Lendário rapper, SupaHotFire, T-Posing para demonstrar sua dominância perante uma imensidão de criaturas hyperdimensionais](supa.png)
+
+![Um portal para um céu estrelado, com a personagem Moonie de ENA em low-poly no centro, e uma ponte luminosa e transparente saindo deste portal. Há uma moldura amarela e azul em formato de um paralelepípedo distorcido em espiral. Fora do portal só se vê estática](moonie.gif)
